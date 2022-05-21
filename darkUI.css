@@ -1,0 +1,181 @@
+.description__24sA {
+	padding: 0 20px;
+	overflow-x: hidden;
+	overflow-y: auto;
+
+	-ms-flex: 1 1 0px;
+	flex: 1 1 0;
+	background-color: #121212;
+
+}
+.content__u3I1 {
+	font-size: 14px;
+	color: #BB86FC;
+}
+/* Question Label */
+.css-v3d350 {
+	font-size: 16px;
+	color: #d3d3d3;
+	font-weight: 600;
+	margin-bottom: 10px;
+}
+/* Accepted and Submission*/
+.css-y3si18 {
+	margin-right: 10px;
+	color: lightslategray;
+}
+/* Count of Sumbmission and Acceptance*/
+.css-jkjiwi {
+	color: white;
+}
+/* The highlights */
+.content__u3I1 code {
+	/* color: #546e7a; */
+	background-color: #121202;
+	padding: 2px 4px;
+	font-size: 13px;
+	border-radius: 3px;
+	font-family: monospace;
+}
+/* Navigation */
+.navbar-container__2Y7K {
+	background-color: black;
+}
+.nav-item-container__16kF .nav-item__5BvG,
+.nav-item-container__16kF .nav-item__5BvG .ant-dropdown-trigger {
+	color: lightgray;
+}
+/* Example test-cases*/
+.content__u3I1 pre {
+	background: rgba(0, 0, 0, 0.2);
+	padding: 10px 15px;
+	color: lightslategray;
+	line-height: 1.6;
+	font-size: 13px;
+}
+.css-101rr4k {
+	padding: 1em 0px;
+	border-bottom: none;
+}
+.css-1lexzqe-TabHeaderContainer {
+	background-color: black;
+}
+/* Description, Solution*/
+div.tab-header__20aW .title__3f2k {
+	margin-left: 5px;
+	color: lightslategray;
+}
+.css-1lelwtv-TabHeader::before {
+	background: none;
+}
+/* Accordion */
+.css-blecvm {
+	background: #121212;
+}
+/* Accordion border */
+.css-isal7m {
+	border: none;
+}
+.header__28Cb {
+	border: none;
+}
+.css-1uwsqgo-TabHeaderRow {
+	background: black;
+}
+/* Strange lines in submission removal*/
+.css-19j86kk-TabHeader::after {
+	background: none;
+}
+.navbar__1Bue {
+	border: none;
+}
+.btn-info__3EMF,
+.btn-info__3EMF:active:not([disabled]) {
+	/* color: #90a4ae; */
+	border-color: #121212;
+	background: #56535363;
+}
+.question-fast-picker__3VcA {
+	width: 100%;
+	padding: 10px 0 10px 20px;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	background: black;
+	justify-content: space-between;
+}
+.CodeMirror-gutter {
+	background-color: #121212;
+}
+/*Bottom Navigation*/
+.question-fast-picker__3VcA {
+	background-color: black;
+}
+.question-fast-picker-wrapper__2Y97 {
+	border: none;
+}
+.container__YPDh {
+	border: none;
+}
+.tab-pane__ncJk {
+	border: none;
+}
+.css-6iyx43 {
+	background-color: #121212;
+	color: lightgray;
+}
+.container__2WTi {
+	border-top: none;
+	background-color: black;
+}
+.container__2zYY {
+	background-color: black;
+}
+.css-h57g4r-TabContent {
+	background-color: black;
+}
+.ace_content {
+	background: #121212;
+	color: wheat;
+}
+.editor-container__QkHu {
+	background: #121212;
+	border: 1px solid rgba(255, 255, 255, 0.1);
+}
+.header__21e7 {
+	border: none;
+	border-top: 1px solid #121212;
+	border-bottom: 1px solid #121212;
+}
+/* Custom input */
+.css-s9svfs-TabContent {
+	background: black;
+}
+.content__u3I1 {
+	font-size: 14px;
+	color: #EED;
+}
+.css-1l22uh0-TabHeaderRow {
+	border: 1px solid #121212;
+	background: #000000;
+}
+.container__Huw6 .interactive-area__1JbC {
+	background: #121210f2;
+}
+.container__2zYY {
+	-webkit-box-shadow: none;
+}
+.select__2iyW {
+	margin: 6px 8px 6px 20px;
+}
+.select__2iyW > div {
+	background: none;
+	border: 1px solid #121212;
+}
+.css-qndcpp-TabHeader::after,
+.css-1kuaqiy-TabHeader::before {
+	background: none;
+}
+.css-nok86h-TabViewHeader::after {
+	border: 1px solid #121212;
+}
